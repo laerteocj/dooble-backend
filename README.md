@@ -20,4 +20,7 @@ Explain why poll options, state and type have poll in the name and other data ob
 Why optionsHash isn't extracted automatically?
 
 **Why invitees is a list of string?**
-From the data sample provided it isn't possible to extrapolate the structure, so I kept it simple and defined as a string. I could have defined that as an object that isn't sound when you want to deserialize the string into an object (it would make the code more complex without a point).  
+From the data sample provided it isn't possible to extrapolate the structure, so I kept it simple and defined as a string. I could have defined that as an object that isn't sound when you want to deserialize the string into an object (it would make the code more complex without a point).
+
+**Why Poll class has two sub classes?**
+_Need to add the answer here...._  
