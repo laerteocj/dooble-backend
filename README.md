@@ -1,3 +1,5 @@
+This repository contains the code with a solution for the hiring exercise from Dooble: https://github.com/DoodleScheduling/hiring-challenges/tree/master/backend-engineer.
+
 # Running the application
 
 ## Starting the database and application
